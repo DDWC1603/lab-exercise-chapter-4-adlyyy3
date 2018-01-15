@@ -1,3 +1,5 @@
+//Akmal Adli bin Ariffin
+//A17DW0074
 #include<iostream>
 using namespace std;
 int main()
